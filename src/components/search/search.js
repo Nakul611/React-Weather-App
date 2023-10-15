@@ -56,7 +56,7 @@ const Search = ({ onSearchChange }) => {
     const requestOptions = {
       method: 'GET',
       headers: {
-        'x-rapidapi-key': 'b0f5b01fe2mshcf1f9a1a49d7609p19ee27jsnf7ef15ef44ec',
+        'x-rapidapi-key': 'KEY',
         'x-rapidapi-host': 'wft-geo-db.p.rapidapi.com',
         'useQueryString': true,
       }
